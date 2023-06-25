@@ -1,5 +1,4 @@
 # botaitggit
-Here's an example of what the README file for your Telegram chatbot repository could look like:
 
 Telegram Chatbot with OpenAI GPT-3
 This is a Telegram chatbot that uses OpenAI GPT-3 to generate responses to user messages.
